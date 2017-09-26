@@ -4,7 +4,7 @@
 
 Made By: Israel Felhandler
 
-This program is a JAVA based game that consists of 1 user and 3 computer players. The user is player1 and his teammate is player 3, while the other team consists of player's 2 and 4. The deck is represented as an ArrayList with values 0-51, for each card. The equivalence for each value is given with the following charts:
+Written in JAVA, this Spades game is a basic card game that consists of 1 user and 3 computer players. The user is player1 and his teammate is player 3, while the other team consists of player's 2 and 4. The deck is represented as an ArrayList with values 0-51, for each card. The equivalence for each value is given with the following charts:
 
 0  1  2  3  4  5  6  7  8  9  10  11  12
 --------------SPADES---------------------
